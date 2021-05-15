@@ -1,6 +1,6 @@
 <?php
 
-namespace regasen\libraries\csv;
+namespace application\libraries\csv;
 
 class csv
 {
